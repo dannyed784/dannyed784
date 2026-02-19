@@ -29,7 +29,6 @@ I am a motivated Programmer Analyst in training with strong interest in backend 
 - JavaScript
 - Node JS  
 - HTML & CSS
-- MySQL
 - MongoDB
 
   **Tools**
