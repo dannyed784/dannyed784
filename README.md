@@ -33,3 +33,17 @@ Future projects include:
 
   ## 📌 Mindset
 > Discipline and consistency build professional developers.
+
+---
+
+## 🧠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio)
+
+---
+
+## 📊 GitHub Stats
+![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyed784&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyed784&layout=compact&theme=tokyonight)
+
+
