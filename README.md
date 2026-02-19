@@ -40,10 +40,7 @@ Future projects include:
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio)
 
 ---
+cs
 
-## 📊 GitHub Stats
-![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyed784&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyed784&layout=compact&theme=tokyonight)
 
 
