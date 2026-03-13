@@ -1,6 +1,6 @@
 ## 👨‍💻 Danny Moreno
 
-## 💻 Programmer Analyst | C# Backend Developer
+## 💻 Programmer Analyst 
 
 Backend-focused developer in training specializing in C# and SQL.  
 Building real-world projects and improving my skills daily with discipline and consistency.
