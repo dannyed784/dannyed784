@@ -1,4 +1,4 @@
-## 👨‍💻 Danny Moreno
+## 👨‍💻 Daniel Moreno
 
 ## 💻 Programmer Analyst 
 
